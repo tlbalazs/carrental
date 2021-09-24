@@ -1,0 +1,19 @@
+ID;FeatureName;FeatureIsOptional
+;Airbag;0
+;AirConditioner;0
+;AES;0
+;ABS;0
+;Navigation system;0
+;Bluetooth;0
+;Radio;0
+;Blind spot monitoring;0
+;Remote start;0
+;Heated seats;0
+;Stability Control;0
+;Sunroof/moonroof;0
+;Backup camera;0
+;Parking sensors;0
+;Towing hook;0
+;Bike rack;1
+;Roof rack;1
+;Child seat;1

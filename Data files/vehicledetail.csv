@@ -1,0 +1,173 @@
+VehicleDetailID;PassengerCapacity;Door;Color;Transmission;Engine;FuelType;HorsePower
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;Black;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;White;Automatic;Audi 3.2L 6 cylinder 265hp 243 ft-lbs;Gasoline;265
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;White;Automatic;Audi 4.2L 8 cylinder 350 hp 325 ft-lbs;Gasoline;350
+;5;5;Blue;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Blue;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Blue;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;White;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;White;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Black;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Black;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Black;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Black;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;White;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;White;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;White;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Blue;Manual;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Blue;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Blue;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Blue;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Blue;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Black;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Black;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Black;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;5;5;Black;Automatic;BMW 3.0L 6 cylinder 300 hp 300 ft-lbs Turbo;Gasoline;300
+;4;2;Yellow;Manual;Chevrolet 3.6L 6 Cylinder 323 hp 278 ft-lbs;Gasoline;323
+;4;2;Yellow;Manual;Chevrolet 3.6L 6 Cylinder 323 hp 278 ft-lbs;Gasoline;323
+;4;2;Yellow;Manual;Chevrolet 3.6L 6 Cylinder 323 hp 278 ft-lbs;Gasoline;323
+;4;2;Red;Automatic;Chevrolet 6.2L 8 Cylinder 426 hp 420 ft-lbs;Gasoline;426
+;4;2;Red;Automatic;Chevrolet 6.2L 8 Cylinder 426 hp 420 ft-lbs;Gasoline;426
+;4;2;Yellow;Automatic;Chevrolet 6.2L 8 Cylinder 426 hp 420 ft-lbs;Gasoline;426
+;4;2;Black;Automatic;Dodge 6.1L 8 Cylinder 425 HP 420 FT-LBS;Gasoline;425
+;4;2;Black;Automatic;Dodge 6.1L 8 Cylinder 425 HP 420 FT-LBS;Gasoline;425
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Blue;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Blue;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Blue;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Blue;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Blue;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Gray;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Red;Manual;Ford 2.0L 4 Cylinder 140 hp 136 ft-lbs;Gasoline;140
+;5;5;Red;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Red;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Red;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Gray;Manual;Ford 2.5L 4 Cylinder 175 hp 172 ft-lbs;Gasoline;175
+;5;5;Brown;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;Brown;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;Brown;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;Brown;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;Black;Automatic;Ford 2.0L 4 Cylinder 240 hp 270 ft-lbs Turbo;Gasoline;290
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;Red;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;Red;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;Red;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;White;Automatic;Ford 2.0L 4 Cylinder 136 hp 128 ft-lbs;Gasoline;136
+;5;5;Brown;Manual;Ford 4.0L 6 Cylinder 207 hp 238 ft-lbs;Gasoline;207
+;5;5;Brown;Manual;Ford 4.0L 6 Cylinder 207 hp 238 ft-lbs;Gasoline;207
+;5;5;Black;Manual;Ford 4.0L 6 Cylinder 207 hp 238 ft-lbs;Gasoline;207
+;5;5;Black;Manual;Ford 4.0L 6 Cylinder 207 hp 238 ft-lbs;Gasoline;207
+;5;5;Brown;Manual;Ford 4.0L 6 Cylinder 207 hp 238 ft-lbs;Gasoline;207
+;5;5;Black;Automatic;Ford 5.0L 8 Cylinder 360 hp 380 ft-lbs FFV;E85;360
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Blue;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Red;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Suzuki 2.0L 4 Cylinder 150 hp 140 ft-lbs;Gasoline;150
+;5;5;Gray;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Gray;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Gray;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Black;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Gray;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Black;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Blue;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Blue;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Blue;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Red;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Red;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Black;Manual;Toyota 1.5L 4 Cylinder 106 hp 103 ft-lbs;Gasoline;106
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Gray;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Gray;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Blue;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Blue;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Blue;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Blue;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Blue;Manual;Volkswagen 2.0L 4 Cylinder 115 hp 125 ft-lbs;Gasoline;115
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 140 hp 236 ft-lbs Turbo Diesel;Diesel;140
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 140 hp 236 ft-lbs Turbo Diesel;Diesel;140
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 140 hp 236 ft-lbs Turbo Diesel;Diesel;140
+;5;5;Black;Manual;Volkswagen 2.0L 4 Cylinder 140 hp 236 ft-lbs Turbo Diesel;Diesel;140
+;5;5;Black;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;Black;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;Gray;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;White;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;White;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;White;Automatic;Volkswagen 3.0L 6 Cylinder 225 hp 406 ft-lbs Turbo Diesel;Diesel;225
+;5;5;Brown;Automatic;Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs;Gasoline;240
+;5;5;Brown;Automatic;Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs;Gasoline;240
+;5;5;White;Automatic;Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs;Gasoline;240
+;5;5;White;Automatic;Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs;Gasoline;240
+;5;5;Brown;Automatic;Nissan 4.0L 6 Cylinder 266 hp 288 ft-lbs;Gasoline;266
+;5;5;Brown;Automatic;Nissan 4.0L 6 Cylinder 266 hp 288 ft-lbs;Gasoline;266
+;5;5;Brown;Automatic;Nissan 4.0L 6 Cylinder 266 hp 288 ft-lbs;Gasoline;266
+;5;5;White;Automatic;Nissan 4.0L 6 Cylinder 266 hp 288 ft-lbs;Gasoline;266
+;5;5;Black;Automatic;Nissan 4.0L 6 Cylinder 266 hp 288 ft-lbs;Gasoline;266
+;5;5;Black;Automatic;Mitsubishi 2.0L 4 Cylinder 148 hp 145 ft-lbs;Gasoline;148
+;5;5;Brown;Automatic;Mitsubishi 2.0L 4 Cylinder 148 hp 145 ft-lbs;Gasoline;148
+;5;5;Brown;Automatic;Mitsubishi 2.0L 4 Cylinder 148 hp 145 ft-lbs;Gasoline;148
+;5;5;White;Automatic;Mitsubishi 2.0L 4 Cylinder 148 hp 145 ft-lbs;Gasoline;148
