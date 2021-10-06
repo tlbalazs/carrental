@@ -37,3 +37,4 @@ declare @result int
 EXEC @result = emp.procAddNewReservation '2021-09-10', '2021-09-13', 1,1, 64
 SELECT @result
 SELECT * FROM Reservation
+ROLLBACK
