@@ -21,6 +21,6 @@ END
 GO
 
 declare @ret varchar(15)
-exec @ret = VerifyHunPhoneNumber @PhoneNumber = '06308333279'
+exec @ret = VerifyHunPhoneNumber @PhoneNumber = ''
 SELECT @ret
-@PhoneNumber = '06308333279'
+@PhoneNumber = ''
